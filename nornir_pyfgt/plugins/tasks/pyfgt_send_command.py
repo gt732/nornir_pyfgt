@@ -9,5 +9,6 @@ def pyfgt_send_command(
 
     device = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
 
-    result = device.facts
+    result = 
+    
     return Result(host=task.host, result=result)
