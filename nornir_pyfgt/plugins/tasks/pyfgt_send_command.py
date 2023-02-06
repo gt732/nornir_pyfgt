@@ -10,7 +10,7 @@ def pyfgt_send_command(
     
 ) -> Result:
     """
-    Sends a command to the Fortigate device using Nornir.
+    Sends a SSH command to the Fortigate device using Nornir.
     
     Arguments:
         task (Task): Nornir task object.
