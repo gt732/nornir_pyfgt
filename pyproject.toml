@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "nornir_pyfgt"
+version = "1.0.1"
+description = "Fortigate-api plugin for Nornir"
+authors = ["GT <geuryt@yahoo.com>"]
+readme = "README.md"
+repository = "https://github.com/gt732/nornir_pyfgt"
+license = "MIT"
+
+[tool.poetry.plugins."nornir.plugins.connections"]
+"pyfgt" = "nornir_pyfgt.plugins.connections:Pyfgt"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+fortigate-api = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry>=1.1.8"]
+build-backend = "poetry.masonry.api"
