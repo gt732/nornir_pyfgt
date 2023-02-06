@@ -11,6 +11,6 @@ def pyfgt_get_url(
     fgt_conn = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
 
     
-    result = fgt_conn.fgt_conn.get(url=url)
+    result = fgt_conn.fgt.get(url=url)
     
     return Result(host=task.host, result=result)
