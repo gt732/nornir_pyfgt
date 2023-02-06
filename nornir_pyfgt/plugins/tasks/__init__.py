@@ -18,6 +18,7 @@ from .pyfgt_zone import pyfgt_zone
 from .pyfgt_get_url import pyfgt_get_url
 from .pyfgt_post_url import pyfgt_post_url
 from .pyfgt_put_url import pyfgt_put_url
+from .pyfgt_delete import pyfgt_delete
 
 
 __all__ = (
@@ -41,5 +42,6 @@ __all__ = (
     "pyfgt_get_url",
     "pyfgt_post_url",
     "pyfgt_put_url",
+    "pyfgt_delete",
 
 )
