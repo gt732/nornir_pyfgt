@@ -14,7 +14,7 @@ from .pyfgt_service_category import pyfgt_service_category
 from .pyfgt_service_group import pyfgt_service_group
 from .pyfgt_snmp_community import pyfgt_snmp_community
 from .pyfgt_virtual_ip import pyfgt_virtual_ip
-# from .pyfgt_zone import pyfgt_zone
+from .pyfgt_zone import pyfgt_zone
 
 
 
