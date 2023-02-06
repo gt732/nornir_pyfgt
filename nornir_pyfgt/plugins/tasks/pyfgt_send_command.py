@@ -9,7 +9,17 @@ def pyfgt_send_command(
     **kwargs: Any
     
 ) -> Result:
+    """
+    Sends a command to the Fortigate device using Nornir.
     
+    Arguments:
+        task (Task): Nornir task object.
+        command_string (str): The command to be sent.
+        **kwargs (Any): Additional parameters to be passed to the `send_command` method.
+    
+    Returns:
+        Result: Nornir result object containing the result of the command.
+    """
 
     fgt_conn = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
 
