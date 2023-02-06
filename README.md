@@ -139,7 +139,7 @@ nr = InitNornir(
 )
 
 
-results = nr.run(task=pyfgt_send_command, command_string="get system interface")
+results = nr.run(task=pyfgt_send_command, command="get system interface")
 
 print_result(results)
 
