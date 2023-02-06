@@ -15,6 +15,7 @@ from .pyfgt_service_group import pyfgt_service_group
 from .pyfgt_snmp_community import pyfgt_snmp_community
 from .pyfgt_virtual_ip import pyfgt_virtual_ip
 from .pyfgt_zone import pyfgt_zone
+from .pyfgt_zone import pyfgt_get_url
 
 
 
@@ -36,5 +37,6 @@ __all__ = (
     "pyfgt_snmp_community",
     "pyfgt_virtual_ip",
     "pyfgt_zone",
+    "pyfgt_get_url",
 
 )
