@@ -1,4 +1,4 @@
-# Fortigate-Api for Nornir
+# Fortigate-API for Nornir
 
 ## Plugins
 
@@ -7,6 +7,8 @@ Connections - fortigate-api
 ## Description
 
 "This plugin integrates the fortigate-api library with the Nornir framework to simplify and automate configuration tasks on Fortigate devices. Using this plugin, you can easily create, delete, get, and update objects in the Fortigate using REST API and SSH. With commonly used objects already implemented, this plugin provides a powerful solution for managing your Fortigate network."
+
+Fortigate-API library - https://github.com/vladimirs-git/fortigate-api
 
 ## Installation
 
