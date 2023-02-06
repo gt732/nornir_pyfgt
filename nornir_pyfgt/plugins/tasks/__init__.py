@@ -6,7 +6,7 @@ from .pyfgt_application import pyfgt_application
 from .pyfgt_dhcp_server import pyfgt_dhcp_server
 from .pyfgt_interface import pyfgt_interface
 from .pyfgt_internet_service import pyfgt_internet_service
-# from .pyfgt_ip_pool import pyfgt_ip_pool
+from .pyfgt_ip_pool import pyfgt_ip_pool
 # from .pyfgt_policy import pyfgt_policy
 # from .pyfgt_schedule import pyfgt_schedule
 # from .pyfgt_service import pyfgt_service
