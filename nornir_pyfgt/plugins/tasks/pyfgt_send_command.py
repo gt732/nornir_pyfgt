@@ -5,7 +5,7 @@ from nornir_pyfgt.plugins.connections import CONNECTION_NAME
 
 def pyfgt_send_command(
     task: Task,
-    command_string: str,
+    command: str,
     **kwargs: Any
     
 ) -> Result:
@@ -24,6 +24,6 @@ def pyfgt_send_command(
     fgt_conn = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
 
     
-    result = fgt_conn.ssh.send_command(command_string, **kwargs)
+    result = fgt_conn.ssh.send_command(command, **kwargs)
     
     return Result(host=task.host, result=result)
