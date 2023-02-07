@@ -2,7 +2,7 @@
 
 ## Plugins
 
-Connections - fortigate-api
+Connections - Pyfgt
 
 ## Description
 
