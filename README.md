@@ -8,8 +8,6 @@ Connections - Pyfgt
 
 "This plugin integrates the fortigate-api library with the Nornir framework to simplify and automate configuration tasks on Fortigate devices. Using this plugin, you can easily create, delete, get, and update objects in the Fortigate using REST API and SSH. With commonly used objects already implemented."
 
-API ISSUE WITH 7.2.4 - Fortigate-API Library Owner is aware - Works on fortigate 6 train
-
 Fortigate-API library - https://github.com/vladimirs-git/fortigate-api
 
 ## Installation
