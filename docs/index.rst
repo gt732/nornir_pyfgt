@@ -6,13 +6,22 @@
 Welcome nornir_pyfgt's documentation!
 ==================================================
 
-Contents:
+Install
+=======
+You can install nornir_pyfgt with 
+
+```
+pip install nornir_pyfgt
+```
+
+Guide
+=====
 
 .. toctree::
    :maxdepth: 2
-   :glob:
-
-   *
+   
+   quickstart
+   tasks
 
 
 

@@ -19,6 +19,6 @@ def pyfgt_virtual_ip(
     fgt_conn = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
 
     
-    result = fgt_conn.virtual_ip()
+    result = fgt_conn.virtual_ip.get()
     
     return Result(host=task.host, result=result)

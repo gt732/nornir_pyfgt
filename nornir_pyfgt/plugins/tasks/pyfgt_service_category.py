@@ -19,6 +19,6 @@ def pyfgt_service_category(
     fgt_conn = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
 
     
-    result = fgt_conn.service_category()
+    result = fgt_conn.service_category.get()
     
     return Result(host=task.host, result=result)

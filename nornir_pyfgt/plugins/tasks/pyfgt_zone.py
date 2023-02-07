@@ -19,6 +19,6 @@ def pyfgt_zone(
     fgt_conn = task.host.get_connection(CONNECTION_NAME, task.nornir.config)
 
     
-    result = fgt_conn.zone()
+    result = fgt_conn.zone.get()
     
     return Result(host=task.host, result=result)

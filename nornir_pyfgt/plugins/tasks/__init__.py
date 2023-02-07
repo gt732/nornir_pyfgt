@@ -7,18 +7,20 @@ from .pyfgt_dhcp_server import pyfgt_dhcp_server
 from .pyfgt_interface import pyfgt_interface
 from .pyfgt_internet_service import pyfgt_internet_service
 from .pyfgt_ip_pool import pyfgt_ip_pool
-from .pyfgt_policy import pyfgt_policy
-from .pyfgt_schedule import pyfgt_schedule
+from .pyfgt_policy_get import pyfgt_policy_get
 from .pyfgt_service import pyfgt_service
 from .pyfgt_service_category import pyfgt_service_category
 from .pyfgt_service_group import pyfgt_service_group
-from .pyfgt_snmp_community import pyfgt_snmp_community
 from .pyfgt_virtual_ip import pyfgt_virtual_ip
 from .pyfgt_zone import pyfgt_zone
 from .pyfgt_get_url import pyfgt_get_url
 from .pyfgt_post_url import pyfgt_post_url
 from .pyfgt_put_url import pyfgt_put_url
 from .pyfgt_delete import pyfgt_delete
+from .pyfgt_policy_get import pyfgt_policy_get
+from .pyfgt_policy_move import pyfgt_policy_move
+from .pyfgt_policy_create import pyfgt_policy_create
+from .pyfgt_policy_delete import pyfgt_policy_delete
 
 
 __all__ = (
@@ -31,17 +33,20 @@ __all__ = (
     "pyfgt_interface",
     "pyfgt_internet_service",
     "pyfgt_ip_pool",
-    "pyfgt_policy",
-    "pyfgt_schedule",
+    "pyfgt_policy_get",
     "pyfgt_service",
     "pyfgt_service_category",
     "pyfgt_service_group",
-    "pyfgt_snmp_community",
     "pyfgt_virtual_ip",
     "pyfgt_zone",
     "pyfgt_get_url",
     "pyfgt_post_url",
     "pyfgt_put_url",
     "pyfgt_delete",
+    "pyfgt_policy_move",
+    "pyfgt_policy_rename",
+    "pyfgt_policy_create",
+    "pyfgt_policy_delete",
+    "pyfgt_policy_get",
 
 )
