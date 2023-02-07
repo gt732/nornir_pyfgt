@@ -1,4 +1,4 @@
-# Fortigate-API for Nornir
+# Fortigate Plugin for Nornir
 
 ## Plugins
 
