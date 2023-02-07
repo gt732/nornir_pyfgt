@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nornir_pyfgt"
-version = "1.0.2"
+version = "1.0.3"
 description = "Fortigate-api plugin for Nornir"
 authors = ["GT <geuryt@yahoo.com>"]
 readme = "README.md"
