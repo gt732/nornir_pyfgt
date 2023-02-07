@@ -20,7 +20,7 @@ pyfgt_dhcp_server
 
 Output::
     
-    [ { 'auto-configuration': 'enable',
+    { 'auto-configuration': 'enable',
     'auto-managed-status': 'enable',
     'conflicted-ip-timeout': 1800,
     'ddns-auth': 'disable',
@@ -81,5 +81,4 @@ Output::
     'wifi-ac2': '0.0.0.0',
     'wifi-ac3': '0.0.0.0',
     'wins-server1': '0.0.0.0',
-    'wins-server2': '0.0.0.0'}]
-    ...
+    'wins-server2': '0.0.0.0'}

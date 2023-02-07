@@ -25,4 +25,3 @@ Output::
     vvvv pyfgt_delete ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO
     <Response [200]>
     ^^^^ END pyfgt_delete ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-    ...

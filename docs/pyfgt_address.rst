@@ -19,8 +19,8 @@ pyfgt_address
     print_result(results)
 
 Output::
-    
-    [ { 'allow-routing': 'disable',
+
+    { 'allow-routing': 'disable',
     'associated-interface': '',
     'cache-ttl': 0,
     'clearpass-spt': 'unknown',
@@ -47,5 +47,4 @@ Output::
     'tag-type': '',
     'tagging': [],
     'type': 'ipmask',
-    'uuid': '0cdb9216-a648-51ed-b43f-238c3b127bc2'},
-    ...
+    'uuid': '0cdb9216-a648-51ed-b43f-238c3b127bc2'}

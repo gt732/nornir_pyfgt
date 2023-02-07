@@ -20,7 +20,7 @@ pyfgt_antivirus
 
 Output::
     
-    [ { 'analytics-accept-filetype': 0,
+    { 'analytics-accept-filetype': 0,
     'analytics-db': 'disable',
     'analytics-ignore-filetype': 0,
     'av-block-log': 'enable',

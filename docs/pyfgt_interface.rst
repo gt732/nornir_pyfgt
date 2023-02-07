@@ -162,4 +162,3 @@ Output::
     'lldp-network-policy': '',
     'lldp-reception': 'vdom',
     'lldp-transmission': 'vdom',
-    ...

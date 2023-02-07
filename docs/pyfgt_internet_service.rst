@@ -20,7 +20,7 @@ pyfgt_internet_service
 
 Output::
     
-     { 'city': [],
+    { 'city': [],
     'city6': [],
     'country': [],
     'country6': [],
@@ -114,5 +114,3 @@ Output::
     'q_origin_key': 13566202,
     'region': [],
     'region6': [],
-    'singularity': 0},
-    ...

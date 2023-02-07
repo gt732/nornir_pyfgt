@@ -19,8 +19,8 @@ pyfgt_address_grp
     print_result(results)
 
 Output::
-    
-   [ { 'allow-routing': 'disable',
+
+    {'allow-routing': 'disable',
     'category': 'default',
     'color': 0,
     'comment': '',
@@ -35,7 +35,7 @@ Output::
     'tagging': [],
     'type': 'default',
     'uuid': 'fe3f8dc6-a4ac-51ed-f0e2-e11854189b4e'},
-  { 'allow-routing': 'disable',
+    {'allow-routing': 'disable',
     'category': 'default',
     'color': 0,
     'comment': '',
@@ -52,5 +52,4 @@ Output::
     'q_origin_key': 'Microsoft Office 365',
     'tagging': [],
     'type': 'default',
-    'uuid': 'fe3f90aa-a4ac-51ed-6202-6c97e89d3206'}]
-    ...
+    'uuid': 'fe3f90aa-a4ac-51ed-6202-6c97e89d3206'}
