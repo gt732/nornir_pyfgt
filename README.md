@@ -18,7 +18,7 @@ pip install nornir-pyfgt
 
 ## Read the Documentation
 
-link goes here
+https://nornir-pyfgt.readthedocs.io/en/latest/
 
 ## Usages
 
