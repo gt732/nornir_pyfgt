@@ -19,6 +19,7 @@ pyfgt_virtual_ip
     print_result(results)
 
 Output::
+    
    [ { 'add-nat46-route': 'enable',
     'arp-reply': 'enable',
     'color': 0,

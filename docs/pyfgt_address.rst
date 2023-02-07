@@ -19,6 +19,7 @@ pyfgt_address
     print_result(results)
 
 Output::
+    
     [ { 'allow-routing': 'disable',
     'associated-interface': '',
     'cache-ttl': 0,

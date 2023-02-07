@@ -19,6 +19,7 @@ pyfgt_application
     print_result(results)
 
 Output::
+    
     [ { 'app-replacemsg': 'enable',
     'comment': '',
     'control-default-network-services': 'disable',

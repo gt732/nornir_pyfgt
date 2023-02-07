@@ -19,6 +19,7 @@ pyfgt_service_group
     print_result(results)
 
 Output::
+    
    [ { 'color': 0,
     'comment': '',
     'fabric-object': 'disable',

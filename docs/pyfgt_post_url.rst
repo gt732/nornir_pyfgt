@@ -22,6 +22,7 @@ pyfgt_post_url
     print_result(results)
 
 Output::
+    
     pyfgt_post_url******************************************************************
     * FW-01 ** changed : False *****************************************************
     vvvv pyfgt_post_url ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO

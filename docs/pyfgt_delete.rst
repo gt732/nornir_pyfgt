@@ -19,6 +19,7 @@ pyfgt_delete
     print_result(results)
 
 Output::
+    
     pyfgt_delete********************************************************************
     * FW-01 ** changed : False *****************************************************
     vvvv pyfgt_delete ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO

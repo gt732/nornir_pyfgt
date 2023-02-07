@@ -19,9 +19,10 @@ pyfgt_policy_delete
 
     print_result(results)
 
-Output::
-    pyfgt_policy_delete******************************************************************
-    * FW-01 ** changed : False *****************************************************
-    vvvv pyfgt_policy_delete ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO
-    <Response [200]>
-    ^^^^ END pyfgt_policy_delete ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    Output::
+        
+        pyfgt_policy_delete******************************************************************
+        * FW-01 ** changed : False *****************************************************
+        vvvv pyfgt_policy_delete ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO
+        <Response [200]>
+        ^^^^ END pyfgt_policy_delete ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

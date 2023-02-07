@@ -19,6 +19,7 @@ pyfgt_service
     print_result(results)
 
 Output::
+    
    { 'app-category': [],
     'app-service-type': 'disable',
     'application': [],

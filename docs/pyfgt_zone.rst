@@ -19,6 +19,7 @@ pyfgt_zone
     print_result(results)
 
 Output::
+    
    [ { 'description': '',
     'interface': [{'interface-name': 'port3', 'q_origin_key': 'port3'}],
     'intrazone': 'deny',

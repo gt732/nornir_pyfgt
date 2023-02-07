@@ -19,6 +19,7 @@ pyfgt_address_grp
     print_result(results)
 
 Output::
+    
    [ { 'allow-routing': 'disable',
     'category': 'default',
     'color': 0,

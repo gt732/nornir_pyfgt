@@ -20,6 +20,7 @@ pyfgt_policy_get
     print_result(results)
 
 Output::
+    
     [ { 'action': 'accept',
     'anti-replay': 'enable',
     'application-list': '',

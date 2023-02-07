@@ -19,6 +19,7 @@ pyfgt_antivirus
     print_result(results)
 
 Output::
+    
     [ { 'analytics-accept-filetype': 0,
     'analytics-db': 'disable',
     'analytics-ignore-filetype': 0,

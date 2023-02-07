@@ -19,6 +19,7 @@ pyfgt_get_url
     print_result(results)
 
 Output::
+    
    [ { 'allow-routing': 'disable',
     'associated-interface': '',
     'cache-ttl': 0,

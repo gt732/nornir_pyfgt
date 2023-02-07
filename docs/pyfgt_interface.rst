@@ -19,6 +19,7 @@ pyfgt_interface
     print_result(results)
 
 Output::
+    
     { 'ac-name': '',
     'aggregate-type': 'physical',
     'algorithm': 'L4',

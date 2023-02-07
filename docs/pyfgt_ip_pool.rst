@@ -19,6 +19,7 @@ pyfgt_ip_pool
     print_result(results)
 
 Output::
+    
    [ { 'add-nat64-route': 'enable',
     'arp-intf': '',
     'arp-reply': 'enable',

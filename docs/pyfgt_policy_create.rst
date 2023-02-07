@@ -30,6 +30,7 @@ pyfgt_policy_create
     print_result(results)
 
 Output::
+    
     pyfgt_policy_create******************************************************************
     * FW-01 ** changed : False *****************************************************
     vvvv pyfgt_policy_create ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO

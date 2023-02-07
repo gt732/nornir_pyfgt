@@ -21,6 +21,7 @@ pyfgt_put_url
     print_result(results)
 
 Output::
+    
     pyfgt_put_url******************************************************************
     * FW-01 ** changed : False *****************************************************
     vvvv pyfgt_put_url ** changed : False vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv INFO

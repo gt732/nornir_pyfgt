@@ -19,6 +19,7 @@ pyfgt_dhcp_server
     print_result(results)
 
 Output::
+    
     [ { 'auto-configuration': 'enable',
     'auto-managed-status': 'enable',
     'conflicted-ip-timeout': 1800,

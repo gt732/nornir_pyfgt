@@ -19,6 +19,7 @@ pyfgt_send_command
     print_result(results)
 
 Output::
+    
     == [ port1 ]
     name: port1   mode: dhcp    ip: 192.168.0.158 255.255.255.0   status: up    netbios-forward: disable    type: physical   ring-rx: 0   ring-tx: 0   netflow-sampler: disable    sflow-sampler: disable    src-check: enable    explicit-web-proxy: disable    explicit-ftp-proxy: disable    proxy-captive-portal: disable    mtu-override: disable    wccp: disable    drop-overlapped-fragment: disable    drop-fragment: disable    
     == [ port2 ]

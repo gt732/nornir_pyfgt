@@ -19,6 +19,7 @@ pyfgt_internet_service
     print_result(results)
 
 Output::
+    
      { 'city': [],
     'city6': [],
     'country': [],
